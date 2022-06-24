@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adithya-27
 - 👀 I’m interested in web development, mobile development, game development
-- 🌱 I’m currently learning react native and java
+- 🌱 I’m currently learning mobile/game development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adithya7822@gmail.com
 
